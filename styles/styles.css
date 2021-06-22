@@ -13,3 +13,50 @@ li {
 	text-align: center;
 	padding:  14px 16px;
 }
+
+a {
+	color: #1a0dab;
+	text-decoration: none;
+}
+
+.nav-link {
+	display: inline-block;
+	padding: 5px;
+	margin: 0 5px;
+    margin-left: 5px;
+	color: #222;
+}
+
+.mid_button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.search {
+	background-color: transparent;
+	border: none;
+	margin: 0;
+    margin-top: 0px;
+	padding: 0;
+	color: rgba(0,0,0,.87);
+	word-wrap: break-word;
+	outline: none;
+	display: flex;
+	flex: 100%;
+	tap-highlight-color: transparent;
+	margin-top: -37px;
+	height: 34px;
+	font-size: 16px;
+}
