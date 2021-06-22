@@ -1,0 +1,1 @@
+This is a project to become more comfortable with HTML, CSS, and developer tools by Benjamin Zah.
