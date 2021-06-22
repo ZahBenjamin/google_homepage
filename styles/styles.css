@@ -19,12 +19,21 @@ a {
 	text-decoration: none;
 }
 
-.nav-link {
+nav a {
 	display: inline-block;
 	padding: 5px;
 	margin: 0 5px;
     margin-left: 5px;
 	color: #222;
+}
+
+.nav-left {
+	float: left;
+}
+
+.nav-right {
+	flex: ;
+	float: right;
 }
 
 .mid_button {
