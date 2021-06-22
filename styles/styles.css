@@ -54,7 +54,6 @@ nav a {
 }
 
 .search {
-	background-color: transparent;
 	border: none;
 	margin: 0;
     margin-top: 0px;
@@ -69,3 +68,6 @@ nav a {
 	height: 34px;
 	font-size: 16px;
 }
+
+
+/* FOOTER */
