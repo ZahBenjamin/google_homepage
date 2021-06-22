@@ -18,6 +18,7 @@ a {
 	color: #1a0dab;
 	text-decoration: none;
 }
+
 /* NAV */
 .nav-link {
 	display: inline-block;
@@ -44,6 +45,10 @@ a {
     text-align: center;
     cursor: pointer;
     user-select: none;
+}
+
+.mid_div {
+	
 }
 
 .search {
