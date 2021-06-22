@@ -19,8 +19,12 @@ a {
 	text-decoration: none;
 }
 
+<<<<<<< HEAD
 /* NAV */
 .nav-link {
+=======
+nav a {
+>>>>>>> 40c32c16af9831b47228be6f24f5d0f054f58725
 	display: inline-block;
 	padding: 5px;
 	margin: 0 5px;
@@ -28,8 +32,15 @@ a {
 	color: #222;
 }
 
+.nav-left {
+	float: left;
+}
 
-/* MAIN */ 
+.nav-right {
+	flex: ;
+	float: right;
+}
+
 .mid_button {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
